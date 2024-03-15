@@ -1,0 +1,15 @@
+name: flame_test
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '^3.0.0'
+  flutter: ^3.13.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.16.0
+
+
